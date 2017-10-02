@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout    android:layout_width="385dp"
+        android:layout_height="430dp">
+
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp">
+
+            <ImageButton
+                android:id="@+id/choose_bill"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:background="@color/colorApp"
+                android:clickable="true"
+                android:scaleType="fitXY"></ImageButton>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:text="Chose your Bill"
+                android:textColor="@color/colortext"
+                android:textSize="18dp"></TextView>
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="385dp"
+            android:layout_height="400dp"
+            android:layout_marginTop="55dp"
+            android:scaleType="fitCenter"
+
+/>
+        <TextView
+            android:layout_marginTop="55dp"
+            android:layout_width="385dp"
+            android:layout_height="400dp"
+            android:paddingTop="200dp"
+            android:paddingLeft="110dp"
+            android:text="the image will display here"
+
+        /></FrameLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/OCRButtonContainer"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+android:layout_marginTop="30dp"
+        android:background="@color/colorApp"
+        android:clickable="true"
+        android:onClick="tessImage">
+
+        <TextView
+
+            android:id="@+id/OCRbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:onClick="tessImage"
+            android:text="Run OCR"
+            android:textColor="@color/colortext"
+            android:textSize="30dp" />
+    </RelativeLayout>
+
+
+</LinearLayout>

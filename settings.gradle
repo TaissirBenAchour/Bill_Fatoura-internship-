@@ -1,0 +1,4 @@
+include ':app', ':android-pdfviewer'
+//include ':libs:Android-Pdf-Viewer-Library-master'
+include ':openCVLibrary2410'
+//project(':Android-Pdf-Viewer-Library-master').projectDir = new File('libs/Android-Pdf-Viewer-Library-master')

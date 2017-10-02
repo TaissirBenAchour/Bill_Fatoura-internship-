@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 43,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "/home/cassio/.android/build-cache/0c11a2975a6b2b9394f3f1441905e3c41117c1ee/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    }
+]

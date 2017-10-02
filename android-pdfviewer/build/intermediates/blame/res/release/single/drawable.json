@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/build/intermediates/res/merged/release/drawable/default_scroll_handle_left.xml",
+        "source": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/src/main/res/drawable/default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/build/intermediates/res/merged/release/drawable/default_scroll_handle_right.xml",
+        "source": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/src/main/res/drawable/default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/build/intermediates/res/merged/release/drawable/default_scroll_handle_bottom.xml",
+        "source": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/src/main/res/drawable/default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/build/intermediates/res/merged/release/drawable/default_scroll_handle_top.xml",
+        "source": "/home/cassio/AndroidStudioProjects/Bill_Fatoura-internship--master/android-pdfviewer/src/main/res/drawable/default_scroll_handle_top.xml"
+    }
+]

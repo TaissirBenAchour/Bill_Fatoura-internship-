@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:weightSum="1">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="379dp"
+        android:layout_height="43dp"
+        android:padding="10dp"
+        android:layout_marginTop="90dp"
+        android:text="Bill : pdf format !"
+        android:textColor="@color/colorApp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="379dp"
+        android:layout_height="43dp"
+        android:padding="10dp"
+        android:text="Bill : image format !"
+        android:textColor="@color/colorApp" />
+
+    <TextView
+        android:id="@+id/txtwelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:textSize="18dp"
+        android:text="@string/welcometext"
+        android:layout_marginTop="70dp"
+        android:padding="30dp"
+        android:textColor= "@color/colorApp"
+        android:textAlignment="center">
+    </TextView>
+</LinearLayout>
